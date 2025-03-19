@@ -69,6 +69,5 @@ This project provided hands-on experience in integrating a generative AI model u
 ### **Submission Requirements**
 - **Code Files**: Included in `hugging_face_api.py`
 - **Documentation**: This README file
-- **Format**: Can be submitted as a zip folder or hosted on GitHub.
 
 ---
