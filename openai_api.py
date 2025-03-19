@@ -3,7 +3,7 @@ import os
 import openai
 
 api_key = os.getenv("OPENAI_API_KEY")
-# client = OpenAI(api_key="sk-bf8bfb31ec794bfe9f640c201a37922e", base_url="https://api.deepseek.com")
+
 client = OpenAI(api_key=api_key, base_url="https://api.deepseek.com")
 
 def get_hello_world():
